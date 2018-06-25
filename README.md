@@ -1,3 +1,3 @@
-# avr-gcc-template
+# DA215A-avr-gcc-template
 
-Mallkoden för att sätta upp ett C-projekt för inbyggda system, anpassad för Atmel Atmega32U4
+Template for setting up an AVR-project for the Atmega 32U4 using the GNU GCC compiler (C). Written by me as an alternative to Atmel/AVR Studio.
